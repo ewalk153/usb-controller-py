@@ -19,3 +19,7 @@ Simple script to decode USB controller in python
 [['', '', '', ''], ['', 'rtrigger', '', ''], ['x', 'a', 'b', 'y']]
 [['', '', '', ''], ['', 'rtrigger', '', ''], ['x', 'a', 'b', 'y']]
 ```
+
+# Aliens
+
+This is a copy of the example game from pygames, with example joystick code woven in.
